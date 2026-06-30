@@ -38,7 +38,7 @@ Especializado en crear experiencias digitales modernas, escalables y funcionales
 
 [![LumaCraft](https://img.shields.io/badge/%F0%9F%8C%90_LumaCraft-lumacraft.lat-007AFF?style=for-the-badge&logo=world&logoColor=white)](https://lumacraft.lat)
 
-**Mi proyecto principal** - Visita [lumacraft.lat](https://lumacraft.lat) para conocer toda la información
+**Mi proyecto principal** - Visita [lumax.lat](https://lumax.lat) para conocer toda la información
 
 </div>
 
@@ -49,7 +49,7 @@ Especializado en crear experiencias digitales modernas, escalables y funcionales
 | Información | Detalle |
 |-------------|---------|
 | 💼 **Rol** | Desarrollador Web |
-| 🌐 **Web** | [lumacraft.lat](https://lumacraft.lat) |
+| 🌐 **Web** | [lumacraft.lat](https://lumax.lat) |
 | 👤 **GitHub** | [@SrxMateo](https://github.com/SrxMateo) |
 
 ---
@@ -74,7 +74,7 @@ Especializado en crear experiencias digitales modernas, escalables y funcionales
 ### ⚡ Conectemos
 
 <p>
-<a href="https://lumacraft.lat"><img src="https://img.shields.io/badge/Web-lumacraft.lat-blue?style=for-the-badge&logo=google-chrome&logoColor=white"</a>
+<a href="https://lumax.lat"><img src="https://img.shields.io/badge/Web-lumacraft.lat-blue?style=for-the-badge&logo=google-chrome&logoColor=white"</a>
 <a href="https://github.com/SrxMateo"><img src="https://img.shields.io/badge/GitHub-@SrxMateo-181717?style=for-the-badge&logo=github&logoColor=white"</a>
 </p>
 
