@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="assets/banner.png" alt="SrxMateo Banner" width="750" />
-  <br/><br/>
-  <img src="assets/logo.png" alt="SrxMateo Logo" width="120" />
+  <br/>
+  <a href="https://lumax.lat"><img src="assets/logo.png" alt="SrxMateo Logo" width="180" /></a>
   
   <h1 align="center">SrxMateo <br> <span style="color:#0e75b6">Senior Full-Stack & Systems Architect</span></h1>
 
@@ -10,7 +9,7 @@
   </p>
 
   <p align="center">
-    <a href="https://lumax.lat"><img src="https://img.shields.io/badge/🌍_Website-lumax.lat-0e75b6?style=for-the-badge" alt="Website" /></a>
+    <a href="https://lumax.lat"><img src="https://img.shields.io/badge/🌍_Página_Principal-www.lumax.lat-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Lumax" /></a>
     <a href="mailto:mateodomina@gmail.com"><img src="https://img.shields.io/badge/✉️_Contacto-mateodomina@gmail.com-0e75b6?style=for-the-badge" alt="Email" /></a>
     <img src="https://komarev.com/ghpvc/?username=SrxMateo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </p>
@@ -20,7 +19,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy un arquitecto de software y desarrollador apasionado por la excelencia técnica. Mi enfoque va más allá de escribir código; diseño **ecosistemas digitales** robustos. Desde la arquitectura de servidores (VPS, Linux, Nginx) hasta interfaces frontend dinámicas y APIs seguras.
+Soy un arquitecto de software y desarrollador apasionado por la excelencia técnica. Mi enfoque va más allá de escribir código; diseño **ecosistemas digitales** robustos. Desde la arquitectura de servidores (VPS, Linux, Nginx) hasta interfaces frontend dinámicas, APIs seguras y desarrollo avanzado de plugins para Minecraft.
 
 <details open>
 <summary><b>🛠️ Stack Tecnológico Premium</b></summary>
@@ -41,9 +40,9 @@ Soy un arquitecto de software y desarrollador apasionado por la excelencia técn
       </td>
       <td>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <br/>
         <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /> <br/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <br/>
@@ -58,65 +57,32 @@ Soy un arquitecto de software y desarrollador apasionado por la excelencia técn
 
 ---
 
-## 🏆 Portafolio de Proyectos (Públicos)
+## 🏆 Ecosistema Principal
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>🎓 LAcademy</h3>
-        <p><i>Hub de Aprendizaje Pro con IA</i></p>
-        <p>Plataforma educativa de alto rendimiento diseñada para centralizar cursos y recursos de desarrollo.</p>
-        <a href="https://github.com/SrxMateo/LAcademy"><img src="https://img.shields.io/badge/📂_Source-2b3137?style=for-the-badge&logo=github" /></a>
-        <a href="https://lacademy.lumax.lat"><img src="https://img.shields.io/badge/🌐_Demo-0e75b6?style=for-the-badge" /></a>
-      </td>
-      <td width="50%" align="center">
-        <h3>🌌 Lumax Corp</h3>
-        <p><i>Plataforma y Ecosistema</i></p>
-        <p>Proyecto núcleo que engloba herramientas, servidores profesionales de Minecraft y arquitectura web.</p>
-        <a href="https://github.com/SrxMateo/lumaxhome"><img src="https://img.shields.io/badge/📂_Source-2b3137?style=for-the-badge&logo=github" /></a>
-        <a href="https://lumax.lat"><img src="https://img.shields.io/badge/🌐_Demo-0e75b6?style=for-the-badge" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <h3>⚙️ LServer</h3>
-        <p><i>Gestor de Herramientas (Python)</i></p>
-        <p>Arquitectura Backend robusta creada en Python para la administración de utilidades de servidor.</p>
-        <a href="https://github.com/SrxMateo/LServer"><img src="https://img.shields.io/badge/📂_Source-2b3137?style=for-the-badge&logo=github" /></a>
-      </td>
-      <td width="50%" align="center">
-        <h3>🤖 AI Skills Engine</h3>
-        <p><i>Custom Tools</i></p>
-        <p>Colección de skills y agentes de IA autónomos (CLI, debuggers, auditores de seguridad).</p>
-        <a href="https://github.com/SrxMateo/skill"><img src="https://img.shields.io/badge/📂_Source-2b3137?style=for-the-badge&logo=github" /></a>
-      </td>
-    </tr>
-  </table>
+  <h3><a href="https://lumax.lat">🌌 Lumax Corp (www.lumax.lat)</a></h3>
+  <p>Mi proyecto núcleo y página principal. Engloba herramientas de desarrollo, servidores profesionales de Minecraft y una arquitectura web avanzada a nivel empresa.</p>
 </div>
 
 ---
 
-## 🔒 Proyectos Privados (Próximamente)
+## 🎮 Minecraft Plugins & Development
 
-Estos son algunos de los repositorios en los que estoy trabajando arduamente en modo oculto. ¡Pronto verán la luz!
+Desarrollo soluciones avanzadas para servidores de Minecraft utilizando la API de Spigot/Paper, garantizando rendimiento extremo y sistemas innovadores.
 
 <div align="center">
   <table>
     <tr>
-      <td width="33%" align="center">
+      <td width="50%" align="center">
         <h3>🛡️ LNPC</h3>
-        <p><i>Plugin Avanzado</i></p>
+        <p><i>Plugin Avanzado de NPCs</i></p>
+        <p>Sistema interactivo y de alto rendimiento para gestionar NPCs en el servidor.</p>
         <img src="https://img.shields.io/badge/Status-En_Desarrollo-orange?style=flat-square" />
       </td>
-      <td width="33%" align="center">
-        <h3>💎 Xtasis Landing</h3>
-        <p><i>Web App Premium</i></p>
-        <img src="https://img.shields.io/badge/Status-Fase_Final-green?style=flat-square" />
-      </td>
-      <td width="33%" align="center">
+      <td width="50%" align="center">
         <h3>🚀 Lumax Core</h3>
         <p><i>Sistema Interno</i></p>
+        <p>El núcleo de funcionalidades de red para servidores de alto tráfico.</p>
         <img src="https://img.shields.io/badge/Status-Testing-blue?style=flat-square" />
       </td>
     </tr>
@@ -125,11 +91,40 @@ Estos son algunos de los repositorios en los que estoy trabajando arduamente en 
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Web & AI Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrxMateo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrxMateo&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🎓 LAcademy</h3>
+        <p><i>Hub de Aprendizaje Pro con IA</i></p>
+        <p>Plataforma educativa de alto rendimiento diseñada para centralizar cursos y recursos.</p>
+        <a href="https://github.com/SrxMateo/LAcademy"><img src="https://img.shields.io/badge/📂_Source-2b3137?style=for-the-badge&logo=github" /></a>
+        <a href="https://lacademy.lumax.lat"><img src="https://img.shields.io/badge/🌐_Demo-0e75b6?style=for-the-badge" /></a>
+      </td>
+      <td width="50%" align="center">
+        <h3>💎 Xtasis Landing</h3>
+        <p><i>Web App Premium</i></p>
+        <p>Landing page de alta conversión para proyectos y promociones especiales.</p>
+        <img src="https://img.shields.io/badge/Status-Fase_Final-green?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>⚙️ LServer</h3>
+        <p><i>Gestor Backend (Python)</i></p>
+        <p>Arquitectura Backend robusta para la administración de utilidades.</p>
+        <a href="https://github.com/SrxMateo/LServer"><img src="https://img.shields.io/badge/📂_Source-2b3137?style=for-the-badge&logo=github" /></a>
+      </td>
+      <td width="50%" align="center">
+        <h3>🤖 AI Skills Engine</h3>
+        <p><i>Custom Tools</i></p>
+        <p>Colección de skills y agentes de IA autónomos (CLI, debuggers).</p>
+        <a href="https://github.com/SrxMateo/skill"><img src="https://img.shields.io/badge/📂_Source-2b3137?style=for-the-badge&logo=github" /></a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
