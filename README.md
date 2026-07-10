@@ -1,83 +1,111 @@
-# 👋 Hola, soy SrxMateo
-
-## 💻 Desarrollador Web Full-Stack
-
-Especializado en crear experiencias digitales modernas, escalables y funcionales. Combino habilidades en frontend y backend para desarrollar soluciones web completas.
-
----
-
-## 🛠️ Stack Tecnológico
-
-<div align="left">
-
-**Frontend:**
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> **JavaScript (ES6+)** - Interactividad y lógica del lado del cliente
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> **HTML5** - Estructura semántica y accesibilidad
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> **CSS3** - Diseño responsive y animaciones modernas
-
-**Backend:**
-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> **Node.js** - Servidores y APIs REST
-- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"> **Kotlin** - Desarrollo backend robusto
-
-**Herramientas & Tecnologías:**
-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> **Git** - Control de versiones
-- <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> **GitHub** - Plataformas de desarrollo
-- <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"> **PowerShell** - Automatización y scripting
-- <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=invision&logoColor=white" alt="REST API"> **APIs REST** - Integración de servicios
-- <img src="https://img.shields.io/badge/Minecraft-00AA00?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft"> **Servidores Minecraft** - Administración de game servers
-
-</div>
-
----
-
-## 🌟 Proyecto Destacado
-
-### Lumax Corp
-
 <div align="center">
+  <img src="assets/banner.png" alt="SrxMateo Banner" width="100%" />
+  <br/><br/>
+  <img src="assets/logo.png" alt="SrxMateo Logo" width="150" />
+  
+  <h1 align="center">SrxMateo <br> <span style="color:#0e75b6">Senior Full-Stack & Systems Architect</span></h1>
 
-[![Lumax](https://img.shields.io/badge/%F0%9F%8C%90_LumaxCorp-lumax.lat-007AFF?style=for-the-badge&logo=world&logoColor=white)](https://lumacraft.lat)
+  <p align="center">
+    <em>"Transformando ideas complejas en experiencias digitales modernas, escalables y seguras."</em>
+  </p>
 
-**Mi proyecto principal** - Visita [lumax.lat](https://lumax.lat) para conocer toda la información
-
+  <p align="center">
+    <a href="https://lumax.lat"><img src="https://img.shields.io/badge/🌍_Website-lumax.lat-0e75b6?style=for-the-badge" alt="Website" /></a>
+    <a href="mailto:mateodomina@gmail.com"><img src="https://img.shields.io/badge/✉️_Contacto-mateodomina@gmail.com-0e75b6?style=for-the-badge" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=SrxMateo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </p>
 </div>
 
 ---
 
-## 📫 Conóceme mejor
+## 🚀 Sobre Mí
 
-| Información | Detalle |
-|-------------|---------|
-| 💼 **Rol** | Desarrollador Web |
-| 🌐 **Web** | [lumax.lat](https://lumax.lat) |
-| 👤 **GitHub** | [@SrxMateo](https://github.com/SrxMateo) |
-
----
-
-## 🚀 Lo que estoy aprendiendo
+Soy un arquitecto de software y desarrollador apasionado por la excelencia técnica. Mi enfoque va más allá de escribir código; diseño **ecosistemas digitales** robustos. Desde la arquitectura de servidores (VPS, Linux, Nginx) hasta interfaces frontend dinámicas y APIs seguras.
 
 <details open>
-<summary><b>📚 Últimas tecnologías</b></summary>
-
-- Full-Stack Web Development
-- API Integration & REST
-- Server Architecture & Networking
-- VPS Management & SSH
-- Professional Plugin Development
-
+<summary><b>🛠️ Stack Tecnológico Premium</b></summary>
+<br/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Frontend & UI</b></td>
+      <td align="center"><b>Backend & Core</b></td>
+      <td align="center"><b>Infraestructura & Ops</b></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <br/>
+        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <br/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 </details>
 
 ---
 
+## 🏆 Portafolio de Proyectos Destacados
+
 <div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🎓 LAcademy</h3>
+        <p><i>Hub de Aprendizaje Pro con IA</i></p>
+        <p>Plataforma educativa de alto rendimiento diseñada para centralizar cursos y recursos de desarrollo con integración de módulos IA.</p>
+        <a href="https://github.com/SrxMateo/LAcademy"><img src="https://img.shields.io/badge/📂_Source_Code-2b3137?style=for-the-badge&logo=github" /></a>
+        <a href="https://lacademy.lumax.lat"><img src="https://img.shields.io/badge/🌐_Live_Demo-0e75b6?style=for-the-badge" /></a>
+      </td>
+      <td width="50%" align="center">
+        <h3>🌌 Lumax Corp</h3>
+        <p><i>Plataforma y Ecosistema</i></p>
+        <p>El proyecto núcleo que engloba herramientas, servidores profesionales de Minecraft y arquitectura web avanzada.</p>
+        <a href="https://github.com/SrxMateo/lumaxhome"><img src="https://img.shields.io/badge/📂_Source_Code-2b3137?style=for-the-badge&logo=github" /></a>
+        <a href="https://lumax.lat"><img src="https://img.shields.io/badge/🌐_Live_Demo-0e75b6?style=for-the-badge" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <h3>⚙️ LServer</h3>
+        <p><i>Gestor de Herramientas (Python)</i></p>
+        <p>Arquitectura Backend robusta creada en Python para la administración de utilidades de servidor.</p>
+        <a href="https://github.com/SrxMateo/LServer"><img src="https://img.shields.io/badge/📂_Source_Code-2b3137?style=for-the-badge&logo=github" /></a>
+      </td>
+      <td width="50%" align="center">
+        <h3>🤖 AI Skills Engine</h3>
+        <p><i>Custom Tools</i></p>
+        <p>Colección de skills y agentes de IA autónomos (arquitectura de CLI, debuggers, auditores de seguridad).</p>
+        <a href="https://github.com/SrxMateo/skill"><img src="https://img.shields.io/badge/📂_Source_Code-2b3137?style=for-the-badge&logo=github" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### ⚡ Conectemos
+---
 
-<p>
-<a href="https://lumax.lat"><img src="https://img.shields.io/badge/Web-lumax.lat-blue?style=for-the-badge&logo=google-chrome&logoColor=white"</a>
-<a href="https://github.com/SrxMateo"><img src="https://img.shields.io/badge/GitHub-@SrxMateo-181717?style=for-the-badge&logo=github&logoColor=white"</a>
-</p>
+## 📈 GitHub Stats
 
-*De espase a desarrollador • Creando servidores de Minecraft • Aprendiendo full-stack*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrxMateo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrxMateo&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
 
+<br/>
+
+<div align="center">
+  <i>Arquitectado y diseñado por IA y SrxMateo</i>
 </div>
